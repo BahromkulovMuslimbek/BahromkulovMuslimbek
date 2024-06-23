@@ -13,3 +13,10 @@
 BahromkulovMuslimbek/BahromkulovMuslimbek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
+
+<img alt="my stats" align="left" width="47%" height = "190" src="https://github-readme-stats.vercel.app/api?username=BahromkulovMuslimbek&show_icons=true"/>
+
+<img alt= "Languages" align="left" width="47%" height = "200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BahromkulovMuslimbek&layout=compact"/>
