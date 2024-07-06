@@ -8,7 +8,7 @@
 - A fool is forgiven seventy mistakes, but a scientist is forgiven none.
 - Tell lies that resemble the truth, but not truth that resembles lies.
 - Two jackals will kill a lion.
-      
+       
 <!---
 BahromkulovMuslimbek/BahromkulovMuslimbek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
